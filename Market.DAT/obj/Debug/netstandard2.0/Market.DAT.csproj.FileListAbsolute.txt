@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.DAT\bin\Debug\netstandard2.0\Market.DAT.deps.json
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.DAT\bin\Debug\netstandard2.0\Market.DAT.dll
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.DAT\bin\Debug\netstandard2.0\Market.DAT.pdb
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.DAT\obj\Debug\netstandard2.0\Market.DAT.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.DAT\obj\Debug\netstandard2.0\Market.DAT.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.DAT\obj\Debug\netstandard2.0\Market.DAT.AssemblyInfo.cs
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.DAT\obj\Debug\netstandard2.0\Market.DAT.dll
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.DAT\obj\Debug\netstandard2.0\Market.DAT.pdb

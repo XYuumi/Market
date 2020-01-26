@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market\bin\Debug\Market.exe.config
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market\bin\Debug\Market.exe
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market\bin\Debug\Market.pdb
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market\bin\Debug\Market.BLL.dll
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market\bin\Debug\Market.DAT.dll
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market\bin\Debug\Market.BLL.pdb
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market\bin\Debug\Market.DAT.pdb
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market\obj\Debug\Market.frmMain.resources
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market\obj\Debug\Market.csproj.CopyComplete
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market\obj\Debug\Market.exe
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market\obj\Debug\Market.pdb

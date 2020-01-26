@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.BLL\bin\Debug\netstandard2.0\Market.BLL.deps.json
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.BLL\bin\Debug\netstandard2.0\Market.BLL.dll
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.BLL\bin\Debug\netstandard2.0\Market.BLL.pdb
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.BLL\bin\Debug\netstandard2.0\Market.DAT.dll
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.BLL\bin\Debug\netstandard2.0\Market.DAT.pdb
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.BLL\obj\Debug\netstandard2.0\Market.BLL.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.BLL\obj\Debug\netstandard2.0\Market.BLL.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.BLL\obj\Debug\netstandard2.0\Market.BLL.AssemblyInfo.cs
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.BLL\obj\Debug\netstandard2.0\Market.BLL.csproj.CopyComplete
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.BLL\obj\Debug\netstandard2.0\Market.BLL.dll
+C:\Users\hp\Desktop\寒假作业\商场收银系统\Market\Market.BLL\obj\Debug\netstandard2.0\Market.BLL.pdb
